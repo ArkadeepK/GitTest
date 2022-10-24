@@ -1,5 +1,5 @@
 #!/usr/bin/python
-:Add comment!
+#Adding comment!
 print("Hello World")
-for i in range (1,20,2):
+for i in range (1,30,2):
   print(i)
